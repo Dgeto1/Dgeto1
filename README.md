@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **hristopapanov13@gmail.com**
 
-- ⚡ Fun fact **I love to drink rakiya 🥃**
+- ⚡ Fun fact **I love photography**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
