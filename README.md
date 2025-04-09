@@ -3,15 +3,11 @@
 
 - 📫 How to reach me **hristopapanov13@gmail.com**
 
-- ⚡ Fun fact **I love photography**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/hristo-papanov-b40586243/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hristo-papanov-b40586243/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/19532159/hristo-papanov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/19532159/hristo-papanov" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=100006753456262" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100006753456262" height="30" width="40" /></a>
 <a href="https://instagram.com/hpapanov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hpapanov" height="30" width="40" /></a>
-<a href="https://discord.gg/dgeto#1634" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="dgeto#1634" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
