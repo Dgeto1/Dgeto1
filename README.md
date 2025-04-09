@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hristo</h1>
 <h3 align="center">Web Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dgeto1&label=Profile%20views&color=0e75b6&style=flat" alt="dgeto1" /> </p>
-
 - 📫 How to reach me **hristopapanov13@gmail.com**
 
 - ⚡ Fun fact **I love photography**
